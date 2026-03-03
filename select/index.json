@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ザ・リアル・スリム・シェイディ",
+  "base_artist": "Eminem",
+  "createdAt": "2026-03-03T23:10:44.537093Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_The_Real_Slim_Shady_Eminem.txt"
+    }
+  ]
+}
